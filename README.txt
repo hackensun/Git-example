@@ -1,3 +1,5 @@
 This is just the learning test for git.
 
-The master change
+The description in Dev branch.
+
+New test for commit
